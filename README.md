@@ -1,3 +1,4 @@
+![Black Technology LinkedIn Banner](https://user-images.githubusercontent.com/74869136/120081949-ccba5100-c0dd-11eb-8e6c-5a9d33c63030.png)
 <h1 align="center">Hi 👋, I'm Sourojit Rakshit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
